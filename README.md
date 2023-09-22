@@ -12,8 +12,9 @@
 #### Salaries are paid once every month. Each position is compensated differently:
 * Salespeople are making a commission between $1500 and $2000.
 * Office workers make:
-a. $1250 if they are a junior employee and 
-b. $1700 if they are a senior employee.
+	* $1250 if they are a junior employee and 
+	* $1700 if they are a senior employee.
+
 * Group leads get a base salary of $1800 plus the number of employees assigned to the same group times $200.
 
 #### There are office groups and sales groups, each with an assigned leader.
